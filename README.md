@@ -3,21 +3,21 @@ Contains instruction for installation
 
 A. MS Office installation Guide:
 1. Download the Office Deployment Tool from the Microsoft Download Center\
-Link: https://www.microsoft.com/en-us/download/details.aspx?id=49117 <br />
+Link: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=49117">Click Here</a> <br />
 (Run the tool and extract it to a location on your system)
 2. Create the configuration.xml file\
-Link: https://config.office.com/deploymentsettings <br />
+Link: <a href="https://config.office.com/deploymentsettings">Click Here</a> <br />
 (Place the configuration file in the same location as in step 1)
 3. Office Installation:
 (Run the command prompt as admin and navigate to location as in step 1)\
 Run the command: setup /configure configuration.xml\
 The installation should start.
 
-B. Video Guide to install MS Office Professional Plus LTSC 2021: https://youtu.be/5J7U-imkcyM
+B. Video Guide to install MS Office Professional Plus LTSC 2021: <a href="https://youtu.be/5J7U-imkcyM">Video here</a>
 
 C. Activation
 1. GVLK for office 2016/2019/2021 (xxxxx-xxxxx-xxxxx-xxxxx-xxxxx)<br />
-Link: https://learn.microsoft.com/en-us/DeployOffice/vlactivation/gvlks?redirectedfrom=MSDN<br />
+Link: <a href="https://learn.microsoft.com/en-us/DeployOffice/vlactivation/gvlks?redirectedfrom=MSDN">Click Here</a><br />
 2. Offline KMS host address list:<br />
   (Check KMS_host.txt or search online)<br />
 3. Run command prompt as admin and navigate to one ofthe location where OSPP.vbs file is present (check in your system)\
