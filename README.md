@@ -19,7 +19,7 @@ C. Activation
 1. GVLK for office 2016/2019/2021 (xxxxx-xxxxx-xxxxx-xxxxx-xxxxx)<br />
 Link: <a href="https://learn.microsoft.com/en-us/DeployOffice/vlactivation/gvlks?redirectedfrom=MSDN">Click Here</a><br />
 2. Offline KMS host address list:<br />
-  (Check KMS_host.txt or search online)<br />
+  (Check <a href="https://github.com/tinytips4u/MS-Office/blob/main/KMS_host.txt">KMS_host.txt</a> or search online)<br />
 3. Run command prompt as admin and navigate to one ofthe location where OSPP.vbs file is present (check in your system)\
 Path 1: System_drive\Program Files\Microsoft Office\Office16\
 Path 2: System_drive\Program Files (x86)\Microsoft Office\Office16<br />
